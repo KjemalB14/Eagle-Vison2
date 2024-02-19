@@ -1,0 +1,26 @@
+<annotation>
+	<folder>triangle</folder>
+	<filename>gt5.jpg</filename>
+	<path>/home/ENKH/Senior Project/Eagle-Vison2/Tensorflow/workspace/images/collectedimages/triangle/gt5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>841</xmin>
+			<ymin>428</ymin>
+			<xmax>1299</xmax>
+			<ymax>778</ymax>
+		</bndbox>
+	</object>
+</annotation>

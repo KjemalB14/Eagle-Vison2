@@ -1,0 +1,26 @@
+<annotation>
+	<folder>circle</folder>
+	<filename>pbc4.jpg</filename>
+	<path>/home/ENKH/Senior Project/Eagle-Vison2/Tensorflow/workspace/images/collectedimages/circle/pbc4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>652</xmin>
+			<ymin>378</ymin>
+			<xmax>1092</xmax>
+			<ymax>819</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>square</folder>
+	<filename>gs1.jpg</filename>
+	<path>/home/ENKH/Senior Project/Eagle-Vison2/Tensorflow/workspace/images/collectedimages/square/gs1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>617</xmin>
+			<ymin>534</ymin>
+			<xmax>919</xmax>
+			<ymax>834</ymax>
+		</bndbox>
+	</object>
+</annotation>
