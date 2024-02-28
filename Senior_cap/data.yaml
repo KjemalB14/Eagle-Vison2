@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Circle', 'Square', 'Triangle']
+
+roboflow:
+  workspace: eaglevision-dapsq
+  project: shape-detection-dyuya
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/eaglevision-dapsq/shape-detection-dyuya/dataset/2

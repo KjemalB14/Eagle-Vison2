@@ -1,0 +1,8 @@
+path: C:\Users\kb30790\Downloads
+train: Senior_cap\train
+val: Senior_cap\test
+
+names:
+    0: Circle
+    1: Square
+    2: Triangle
